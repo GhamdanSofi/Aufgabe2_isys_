@@ -1,0 +1,45 @@
+T1:Stadt 'A' (Startpunkt)
+
+
+gKosten: 0
+hKosten: 0
+fKosten: 0
+Stadt 'D' (nächster Knoten)
+
+gKosten: 100
+hKosten: 40
+fKosten: 140
+Stadt 'E' (nächster Knoten)
+
+gKosten: 130
+hKosten: 20
+fKosten: 150
+Stadt 'B' (Endpunkt)
+
+gKosten: 150
+hKosten: 0
+fKosten: 150
+
+
+
+T2:
+Stadt 'A' (Startpunkt)
+
+gKosten: 0
+hKosten: 0
+fKosten: 0
+Stadt 'D' (nächster Knoten)
+
+gKosten: 100
+hKosten: 40
+fKosten: 140
+Stadt 'E' (nächster Knoten)
+
+gKosten: 230
+hKosten: 20
+fKosten: 250
+Stadt 'B' (Endpunkt)
+
+gKosten: 250
+hKosten: 0
+fKosten: 250
